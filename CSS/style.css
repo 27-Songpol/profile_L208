@@ -1,0 +1,39 @@
+.a {
+    text-align: center;
+    font-size: 80px;
+    background-color: skyblue;
+    color: white;
+}
+.b {
+    text-align: center;
+    font-size: 60px;
+    background-color: skyblue;
+    color: white;
+    padding: 10px;
+}
+.image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(224, 179, 228);
+    padding: 50px;
+    border-radius: 2rem;
+}
+.head {
+    font-size: 18px;
+    background-color: rgb(224, 179, 228);
+    color: white;
+    padding-left: 20px;
+    border-radius: 2rem;
+    padding: 5px;
+}
+.school {
+    font-size: 18px;
+    background-color: rgb(224, 179, 228);
+    color: white;
+    padding-left: 280px;
+    border-radius: 2rem;
+}
+img {
+    border-radius: 2rem;
+}
